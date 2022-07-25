@@ -6,12 +6,12 @@ The book of forbidden knowledge is a collection of useful resources in the IT fi
 
 ### Requirements to get in the book (2 out of 3 needed, or special permission):
 - Open source and/or source available  (a github repo/account needed)
-- Must be a organization compared to a company
+- Must be an organization compared to a company
 - Must support a good cause
 
 ## TV
 -----
-- [iptv] - iptv is a github repo that supports and lists free (and even legal) TV channels for anyone to watch(some can be georestichted)
+- [iptv] - iptv is a github repo that supports and lists free (and even legal) TV channels for anyone to watch(some can be georestricted)
 - [tvheadend] - tvheadend is a software that can be installed on a raspberry pi and can be used with a TV antenna or [iptv] to record or stream shows.
 
 ## SBC (Single Board Computers)
@@ -26,20 +26,20 @@ The book of forbidden knowledge is a collection of useful resources in the IT fi
 
 ## Automated Car
 ----------------
-- [Open Pilot] - The only opensource trusted self-driving car software I have seen. It has the same level of autometion as Tesla.
+- [Open Pilot] - The only opensource trusted self-driving car software I have seen. It has the same level of automation as Tesla(Cost: $2500, Max).
 
 ## Operating Systems
 ---------------------------------------
 ### Desktop
 
-#### Begginer
+#### Beginner
 - [Linux Mint] - The best distro for those just starting with linux.
 - [Ubuntu] - A very good linux system. It has an autoinstall driver's option in the CLI.
-- [Elementary OS] - A linux distro which had a UI simaler to Mac OS.
+- [Elementary OS] - A linux distro which has a UI simialr to Mac OS.
 
 #### Easy
 - [Pop OS] - Pop OS is a linux distro created by system-76 that makes linux computers.
-- [Cent OS] - Cent OS is most likely the best RPM distro for beginers. It was built off the source code of RHEL.
+- [Cent OS] - Cent OS is most likely the best RPM distro for beginners. It was built off the source code of RHEL.
 - [Kali] - Kali is the best free OS for pen-testers and ethichal-hackers.
 
 #### Intermediate
