@@ -24,6 +24,10 @@ The book of forbidden knowledge is a collection of useful resources in the IT fe
 ------------
 - [Internet archives] - The internet archives is a website that promotes the freedom of info to all. They have many books, movies, videos and more.
 
+## Automated Car
+----------------
+- [Open Pilot] - The only opensource selfdriveing car software I have seen. It hae the same level of automasion as tesla.
+
 ## Operating Systems
 ---------------------------------------
 ### Desktop
@@ -98,3 +102,4 @@ Any suggestions areappreciated
    [Lineage OS]: <https://lineageos.org/>
    [Open WRT]: <https://openwrt.org/>
    [Asteroid OS]: <https://asteroidos.org/>
+   [Open Pilot]: <https://comma.ai/>
