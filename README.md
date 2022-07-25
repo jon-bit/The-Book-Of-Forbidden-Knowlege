@@ -26,15 +26,15 @@ The book of forbidden knowledge is a collection of useful resources in the IT fe
 
 ## Automated Car
 ----------------
-- [Open Pilot] - The only opensource selfdriveing car software I have seen. It hae the same level of automasion as tesla.
+- [Open Pilot] - The only opensource trusted self-driving car software I have seen. It has the same level of autometion as Tesla.
 
 ## Operating Systems
 ---------------------------------------
 ### Desktop
 
-#### Beginer
+#### Begginer
 - [Linux Mint] - The best distro for those just starting with linux.
-- [Ubuntu] - A very good linux system. It hase a autoinstall drivers opstion in the CLI.
+- [Ubuntu] - A very good linux system. It has an autoinstall driver's option in the CLI.
 - [Elementary OS] - A linux distro which had a UI simaler to Mac OS.
 
 #### Easy
@@ -60,13 +60,13 @@ The book of forbidden knowledge is a collection of useful resources in the IT fe
 ### Mobile
 
 #### AOSP(Android Open Source Project)
-- [Graphene OS] - A android OS with extreme security. Can only be installed on a pixel device bcause of its strong hardware security and does not support google play services.
-- [Calyx OS] - A android OS with high security. It does support googleplay services but also comes with Micro-G. Not as stong as Graphene OS but is very strong regurdless.
-- [Lineage OS] - A android OS with a good all around expireance for a andriod phone with a ROM.
+- [Graphene OS] - A android OS with extreme security. Can only be installed on a pixel device because of its strong hardware security and does not support google play services.
+- [Calyx OS] - A android OS with high security. It does support googleplay services but also comes with Micro-G. Not as stong as Graphene OS but is very strong regardless.
+- [Lineage OS] - A android OS with a good all around experience for an andriod phone with a ROM.
 
 ### Other
-- [Open WRT] - A router firmware that is suported by a handful of good routers. It even suports WPA2/3 enterprize.
-- [Asteroid OS] - A ROM for wrist watches. Because it is open-source anyone can make a app or another OS out of it.
+- [Open WRT] - A router firmware that is supported by a handful of good routers. It even suports WPA2/3 enterprise.
+- [Asteroid OS] - A ROM for smart watches. Because it is open-source anyone can make a app or another OS out of it.
 
 ##### Todo list
 - improve spelling and grammar
