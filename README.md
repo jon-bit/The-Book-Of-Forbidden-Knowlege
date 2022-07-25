@@ -1,6 +1,6 @@
 # The book of forbidden knowledge
 ## _Go zero to hero in IT_
-version: 0.0.3 Beta
+version: 0.0.5 Beta
 
 The book of forbidden knowledge is a collection of useful resources in the IT feld. 
 
@@ -24,32 +24,45 @@ The book of forbidden knowledge is a collection of useful resources in the IT fe
 ------------
 - [Internet archives] - The internet archives is a website that promotes the freedom of info to all. They have many books, movies, videos and more.
 
-## Operating Systems(unix based)
+## Operating Systems
 ---------------------------------------
-### Beginer
+### Desktop
+
+#### Beginer
 - [Linux Mint] - The best distro for those just starting with linux.
 - [Ubuntu] - A very good linux system. It hase a autoinstall drivers opstion in the CLI.
 - [Elementary OS] - A linux distro which had a UI simaler to Mac OS.
 
-### Easy
+#### Easy
 - [Pop OS] - Pop OS is a linux distro created by system-76 that makes linux computers.
 - [Cent OS] - Cent OS is most likely the best RPM distro for beginers. It was built off the source code of RHEL.
 - [Kali] - Kali is the best free OS for pen-testers and ethichal-hackers.
 
-### Intermediate
+#### Intermediate
 - [Tails] - Tails is a distro ment to be run off a external storage device and wipes its self to a new installation affterwords.
 - [Fedora] - Probly the most jack-of-all-traids linux distro. It hase a clean interface and implements strong security.
 - [Manjaro] - The most user friendly pacman distro. It also has an option for divers.
 
-### Advance
+#### Advance
 - [Arch Linux] - Archlinux dose not comeout with reguler updates but provides reguler patches in other ways.
 - [Whonix] - A Linux distro ment to run in a VM and route all trffic through tor.
 - [Gentoo] - A very stong and avance linux ditro.
 
-### Expert
+#### Expert
 - [Qubes OS] - One of the most stong linux distros. Uses compartimilazcion by using multiple VMs.
 - [Nix OS] - (To be finished later)
 - [Slackware] - One of the oldest and still mantined linux distros.
+
+### Mobile
+
+#### AOSP(Android Open Source Project)
+- [Graphene OS] - A android OS with extreme security. Can only be installed on a pixel device bcause of its strong hardware security and does not support google play services.
+- [Calyx OS] - A android OS with high security. It does support googleplay services but also comes with Micro-G. Not as stong as Graphene OS but is very strong regurdless.
+- [Lineage OS] - A android OS with a good all around expireance for a andriod phone with a ROM.
+
+### Other
+- [Open WRT] - A router firmware that is suported by a handful of good routers. It even suports WPA2/3 enterprize.
+- [Asteroid OS] - A ROM for wrist watches. Because it is open-source anyone can make a app or another OS out of it.
 
 ##### Todo list
 - improve spelling and grammar
@@ -80,3 +93,6 @@ Any suggestions areappreciated
    [Qubes OS]: <https://www.qubes-os.org/>
    [Nix OS]: <https://nixos.org/>
    [Slackware]: <http://www.slackware.com/>
+   [Graphene OS]: <https://grapheneos.org/>
+   [Calyx OS]: <https://calyxos.org/>
+   [Lineage OS]: <https://lineageos.org/>
