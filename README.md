@@ -18,8 +18,7 @@ The book of forbidden knowledge is a collection of useful resources in the IT fe
 
 
 
-## SBC (Single Board
-Computers)
+## SBC (Single Board Computers)
 ------------------------------
 - [raspberrypi] - the raspberry pi is probably the most famous of the SBC and has a very large and good community around it. the store also has many add-ons you can find on online shops.
 - [orangepi] - orange pi is another SBC I would recommend
@@ -37,8 +36,7 @@ Computers)
 - improve spelling and grammar
 - add more category
 - add more tools
-Any suggestions are
-appreciated 
+Any suggestions areappreciated 
 
 [//]:#
    [Internet archives]: <https://archive.org/>
