@@ -55,6 +55,7 @@ The book of forbidden knowledge is a collection of useful resources in the IT fe
 - improve spelling and grammar
 - add more category
 - add more tools
+
 Any suggestions areappreciated 
 
 [//]:#
