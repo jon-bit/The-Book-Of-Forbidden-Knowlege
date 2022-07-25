@@ -96,3 +96,5 @@ Any suggestions areappreciated
    [Graphene OS]: <https://grapheneos.org/>
    [Calyx OS]: <https://calyxos.org/>
    [Lineage OS]: <https://lineageos.org/>
+   [Open WRT]: <https://openwrt.org/>
+   [Asteroid OS]: <https://asteroidos.org/>
