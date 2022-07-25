@@ -58,7 +58,7 @@ The book of forbidden knowledge is a collection of useful resources in the IT fe
 
 Any suggestions areappreciated
 
-Support this repo by donaiting:
+
 
 XMR: 4AiDxbWjPNoYS5xndDfzbzJkmh1HF55Le4KZLwLgSNhN7VSCpY7FuhXQ6jw9uas7AvPHbT8XyjzRoRSNdrGNCA493m1ZYn9
 
