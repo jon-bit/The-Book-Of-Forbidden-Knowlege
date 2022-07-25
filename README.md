@@ -2,7 +2,7 @@
 ## _Go zero to hero in IT_
 version: 0.0.5 Beta
 
-The book of forbidden knowledge is a collection of useful resources in the IT feild. 
+The book of forbidden knowledge is a collection of useful resources in the IT field. 
 
 ### Requirements to get in the book (2 out of 3 needed, or special permission):
 - Open source and/or source available  (a github repo/account needed)
