@@ -48,14 +48,14 @@ The book of forbidden knowledge is a collection of useful resources in the IT fe
 - [Manjaro] - The most user friendly pacman distro. It also has an option for divers.
 
 #### Advance
-- [Arch Linux] - Archlinux dose not comeout with reguler updates but provides reguler patches in other ways.
-- [Whonix] - A Linux distro ment to run in a VM and route all trffic through tor.
-- [Gentoo] - A very stong and avance linux ditro.
+- [Arch Linux] - Archlinux does not comeout with regular updates but provides regular patches in other ways.
+- [Whonix] - A Linux distro ment to run in a VM and route all traffic through tor.
+- [Gentoo] - A very stong and a advance linux ditro.
 
 #### Expert
-- [Qubes OS] - One of the most stong linux distros. Uses compartimilazcion by using multiple VMs.
+- [Qubes OS] - One of the most stong linux distros. Uses compartmentalization by using multiple VMs.
 - [Nix OS] - (To be finished later)
-- [Slackware] - One of the oldest and still mantined linux distros.
+- [Slackware] - One of the oldest and still maintained linux distros.
 
 ### Mobile
 
