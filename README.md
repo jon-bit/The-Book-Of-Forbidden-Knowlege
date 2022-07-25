@@ -1,5 +1,5 @@
 # The book of forbidden knowledge
-## _Go zero to heroin IT_
+## _Go zero to hero in IT_
 version: 0.0.1 Beta
 
 The book of forbidden knowledge is a collection of useful resources in the IT feld. 
