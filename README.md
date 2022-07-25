@@ -4,8 +4,7 @@ version: 0.0.1 Beta
 
 The book of forbidden knowledge is a collection of useful resources in the IT feld. 
 
-### Requirements to
-get in the book (2 out of 3 needed, or special permission):
+### Requirements to get in the book (2 out of 3 needed, or special permission):
 - Open source and/or source available  (a github repo/account needed)
 - Must b a organization compared to a company
 - Must support a good cause
