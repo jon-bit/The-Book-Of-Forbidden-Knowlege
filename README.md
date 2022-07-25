@@ -32,43 +32,55 @@ The book of forbidden knowledge is a collection of useful resources in the IT fi
 ---------------------------------------
 ### Desktop
 
-#### Beginner
+#### Windows
+- [DOS] - Disk Operating System (or DOS) was invended in 1981 by bill gates.
+- [Windows 1,2,2.1,3,3.1] - Some of the first GUI OSs for dsktop. Built ontop of DOS.(EOL)
+- [Windows 95,98,ME] - (To be finished later)
+- [Windows NT(3.1,3.5,4,2000)] - When Windows NT cameout you would not longer have to install DOS on your computer firs(EOL).
+- [Windows XP] - (To be finished later)
+- [Windows Vista] - (To be finished later)
+- [Windows 7] - (To be finished later)
+- [Windows 8] - (To be finished later)
+- [Windows 10] - (To be finished later)
+- [Windows 11] - (To be finished later)
+
+##### Beginner
 - [Linux Mint] - The best distro for those just starting with linux.
 - [Ubuntu] - A very good linux system. It has an autoinstall driver's option in the CLI.
 - [Elementary OS] - A linux distro which has a UI simialr to Mac OS.
 
-#### Easy
+##### Easy
 - [Pop OS] - Pop OS is a linux distro created by system-76 that makes linux computers.
 - [Cent OS] - Cent OS is most likely the best RPM distro for beginners. It was built off the source code of RHEL.
-- [Kali] - Kali is the best free OS for pen-testers and ethichal-hackers.
+- [Kali] - Kali is the best free OS for pen-testers and ethical-hackers.
 
-#### Intermediate
-- [Tails] - Tails is a distro ment to be run off a external storage device and wipes its self to a new installation affterwords.
-- [Fedora] - Probly the most jack-of-all-traids linux distro. It hase a clean interface and implements strong security.
+##### Intermediate
+- [Tails] - Tails is a distro meant to be run off a external storage device and wipes its self to a new installation affterwords.
+- [Fedora] - Probably the most jack-of-all-trades linux distro. It has a clean interface and implements strong security.
 - [Manjaro] - The most user friendly pacman distro. It also has an option for divers.
 
-#### Advance
+##### Advance
 - [Arch Linux] - Archlinux does not comeout with regular updates but provides regular patches in other ways.
-- [Whonix] - A Linux distro ment to run in a VM and route all traffic through tor.
-- [Gentoo] - A very stong and a advance linux ditro.
+- [Whonix] - A Linux distro meant to run in a VM and route all traffic through tor.
+- [Gentoo] - A very advance linux ditro.
 
-#### Expert
-- [Qubes OS] - One of the most stong linux distros. Uses compartmentalization by using multiple VMs.
+##### Expert
+- [Qubes OS] - One of the stongest linux distros. Uses compartmentalization by using multiple VMs.
 - [Nix OS] - (To be finished later)
 - [Slackware] - One of the oldest and still maintained linux distros.
 
-### Mobile
+#### Mobile
 
-#### AOSP(Android Open Source Project)
-- [Graphene OS] - A android OS with extreme security. Can only be installed on a pixel device because of its strong hardware security and does not support google play services.
-- [Calyx OS] - A android OS with high security. It does support googleplay services but also comes with Micro-G. Not as stong as Graphene OS but is very strong regardless.
-- [Lineage OS] - A android OS with a good all around experience for an andriod phone with a ROM.
+##### AOSP(Android-Open-Source-Project)
+- [Graphene OS] - An android OS with extreme security. Can only be installed on a pixel device because of its strong hardware security and does not support google play services.
+- [Calyx OS] - An android OS with high security. It does support googleplay services but also comes with Micro-G. Not as stong as Graphene OS but is very strong regardless.
+- [Lineage OS] - An android OS with a good all around experience for an andriod phone with a ROM.
 
-### Other
-- [Open WRT] - A router firmware that is supported by a handful of good routers. It even suports WPA2/3 enterprise.
+#### Other
+- [Open WRT] - A router firmware that is supported by a handful of good routers. It even supports WPA2/3 enterprise.
 - [Asteroid OS] - A ROM for smart watches. Because it is open-source anyone can make a app or another OS out of it.
 
-##### Todo list
+###### Todo list
 - improve spelling and grammar
 - add more category
 - add more tools
