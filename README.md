@@ -44,6 +44,14 @@ The book of forbidden knowledge is a collection of useful resources in the IT fi
 - [Windows 10] - (To be finished later)
 - [Windows 11] - (To be finished later)
 
+#### Windows Server
+- [Windows Server 2003] - (To be finished later)
+- [Windows Server 2008] - (To be finished later)
+- [Windows Server 2012] - (To be finished later)
+- [Windows Server 2016] - (To be finished later)
+- [Windows Server 2019] - (To be finished later)
+- [Windows Server 2022] - (To be finished later)
+
 ##### Beginner
 - [Linux Mint] - The best distro for those just starting with linux.
 - [Ubuntu] - A very good linux system. It has an autoinstall driver's option in the CLI.
