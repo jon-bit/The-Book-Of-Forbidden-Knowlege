@@ -19,7 +19,7 @@ The book of forbidden knowledge is a collection of useful resources in the IT fi
 - [raspberrypi] - the raspberry pi is probably the most famous of the SBC and has a very large and good community around it. the store also has many add-ons you can find on online shops.
 - [orangepi] - orange pi is another SBC I would recommend
 - [bananapi] - banana pi is another SBC I would recommend
-- []
+- [zimaboard] - One of the top SBC ever made. It is one of a kind due to it's amazing design and specs.
 
 ## Websites
 ------------
