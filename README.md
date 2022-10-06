@@ -5,7 +5,7 @@ version: 0.0.5 Beta
 The book of forbidden knowledge is a collection of useful resources in the IT field. 
 
 ### Requirements to get in the book (2 out of 3 needed, or special permission):
-- Open source and/or source available  (a github repo/account needed)
+- Open source and/or source available  (a git repo/account needed)
 - Must be an organization compared to a company
 - Must support a good cause
 
@@ -19,6 +19,7 @@ The book of forbidden knowledge is a collection of useful resources in the IT fi
 - [raspberrypi] - the raspberry pi is probably the most famous of the SBC and has a very large and good community around it. the store also has many add-ons you can find on online shops.
 - [orangepi] - orange pi is another SBC I would recommend
 - [bananapi] - banana pi is another SBC I would recommend
+- []
 
 ## Websites
 ------------
@@ -100,5 +101,6 @@ Any suggestions areappreciated
    [Calyx OS]: <https://calyxos.org/>
    [Lineage OS]: <https://lineageos.org/>
    [Open WRT]: <https://openwrt.org/>
+   [Zimaboard]: <https://www.zimaboard.com/>
    [Asteroid OS]: <https://asteroidos.org/>
    [Open Pilot]: <https://comma.ai/>
