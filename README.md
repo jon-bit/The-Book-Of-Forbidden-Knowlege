@@ -30,28 +30,7 @@ The book of forbidden knowledge is a collection of useful resources in the IT fi
 
 ## Operating Systems
 ---------------------------------------
-### Desktop
-
-#### Windows
-- [DOS] - Disk Operating System (or DOS) was invended in 1981 by bill gates.
-- [Windows 1,2,2.1,3,3.1] - Some of the first GUI OSs for dsktop. Built ontop of DOS.(EOL)
-- [Windows 95,98,ME] - (To be finished later)
-- [Windows NT(3.1,3.5,4,2000)] - When Windows NT cameout you would not longer have to install DOS on your computer firs(EOL).
-- [Windows XP] - (To be finished later)
-- [Windows Vista] - (To be finished later)
-- [Windows 7] - (To be finished later)
-- [Windows 8] - (To be finished later)
-- [Windows 10] - (To be finished later)
-- [Windows 11] - (To be finished later)
-
-#### Windows Server
-- [Windows Server 2003] - (To be finished later)
-- [Windows Server 2008] - (To be finished later)
-- [Windows Server 2012] - (To be finished later)
-- [Windows Server 2016] - (To be finished later)
-- [Windows Server 2019] - (To be finished later)
-- [Windows Server 2022] - (To be finished later)
-
+#### Linux
 ##### Beginner
 - [Linux Mint] - The best distro for those just starting with linux.
 - [Ubuntu] - A very good linux system. It has an autoinstall driver's option in the CLI.
